@@ -1,0 +1,2 @@
+device002:my_display
+client_server:rpi-go-server
